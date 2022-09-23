@@ -1,0 +1,13 @@
+{
+	"prefix": "n!",
+	"bot_token": "ODA3Mzc1NjYyNTc4OTI1NTY4.YB3FLg.HzlnclIH6OHTqwGHHpO4BbxWbOY",
+    "owner_id": "582322774895493143",
+	"meaning_of_life": 42,
+	"kill_array": ["please", "dont", "hack", "me"],
+    "kiss_array":["boobs","balls"],
+	"secret_passcodes": {
+		"bank": 1234,
+		"home": 4321
+	},
+    "black": 1313
+}

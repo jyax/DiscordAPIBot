@@ -1,0 +1,38 @@
+To Do:
+
+n!bonk
+
+>Work by pulling random strings from an array.
+
+n!funny
+>grabs from a random list of variables (something that is funny)
+n!death
+>mentions user, has died from [some cause from a random list]
+
+
+n!marry
+>Marry another user
+
+
+
+>Either work by an array with gif's/img's. Meaning it will only be local. Later on can instead pull a random image from a site.
+
+n!kill
+n!kiss
+n!hug
+n!punch
+n!abuse
+n!pat
+n!spit
+n!dog
+n!cat
+n!hentai
+n!boobs
+n!butt
+n!thighs
+
+
+n!help					/// Setup, but need to add more commands later on and also need to change how it functions. So consider this not done at all
+>Displays in commands in list
+>Description of each command
+>Example of each command
